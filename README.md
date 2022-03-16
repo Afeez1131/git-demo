@@ -1,4 +1,4 @@
 # git-demo
-testing out git practise
+testing out git practise!
 
 ## PRACTISING GIT COMMAND
